@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/my_website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml/repositories/BLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml/repositories/CodeFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml/repositories/k-diffusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml/repositories/stable-diffusion-stability-ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml/repositories/taming-transformers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml_stable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml_stable/repositories/BLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml_stable/repositories/CodeFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml_stable/repositories/k-diffusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml_stable/repositories/stable-diffusion-stability-ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui-directml_stable/repositories/taming-transformers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yt_fe" vcs="Git" />
+  </component>
+</project>
